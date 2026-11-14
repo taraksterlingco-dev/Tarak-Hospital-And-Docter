@@ -1,0 +1,8 @@
+{
+  "name": "Tarak Sterling — Healthcare Website Demo",
+  "description": "Interactive sales demo by Tarak Sterling allowing doctors and hospitals to preview their personalized clinic or hospital website.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
